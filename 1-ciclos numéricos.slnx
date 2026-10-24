@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1-ciclos numéricos/1-ciclos numéricos.vcxproj" Id="ea9eae6c-13a1-487c-9917-e53205a73b9e" />
+</Solution>
