@@ -1,0 +1,6 @@
+﻿  Assembling codigo.asm...
+codigo.asm(10): error A2006: undefined symbol : valor
+codigo.asm(18): error A2006: undefined symbol : es_numero
+codigo.asm(20): error A2006: undefined symbol : guardar
+codigo.asm(26): error A2006: undefined symbol : bucle
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml.exe /c /nologo /Zi /Fo"Debug\codigo.obj" /I "C:\Users\angel\OneDrive\Documentos\LENGUAJES DE INTERFAZ\Irvine32\Irvine" /W3 /errorReport:prompt  /Tacodigo.asm" salió con el código 1.

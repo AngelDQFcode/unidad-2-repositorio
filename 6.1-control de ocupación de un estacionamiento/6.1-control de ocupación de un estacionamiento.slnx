@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="6.1-control de ocupación de un estacionamiento/6.1-control de ocupación de un estacionamiento.vcxproj" />
+</Solution>

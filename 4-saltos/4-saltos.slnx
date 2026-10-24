@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="4-saltos/4-saltos.vcxproj" Id="67148307-0ee6-4104-b7b8-0ae355b06a7a" />
+</Solution>
