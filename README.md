@@ -9,16 +9,16 @@
 
 ## Índice de Prácticas
 
-0. [Hola Mundo sin Irvine](./hola%20mundo%20sinirvine)
+0. [Hola Mundo sin Irvine](./hola%20mundo%20sin%20irvine)
 1. [Ciclos numéricos](./1-ciclos%20numéricos)
 2. [Captura y desplegado de mensajes](./2-%20captura%20y%20desplegado%20del%20mensaje)
 3. [Comparación y prueba](./3-comparacion%20y%20prueba)
 4. [Saltos](./4-saltos)
    - 4.1. [Mayor, menor o igual con entrada del usuario](./4.1-%20mayor,menor%20o%20igual%20con%20entrada%20del%20usuario)
 5. [Condicionales](./5-condicionales)
-   - 5.1. [Repetir hasta que el usuario ingrese cero](./5-condicionales)
+   - 5.1. [Repetir hasta que el usuario ingrese cero](./5.1-repetir%20hasta%20que%20el%20usuario%20ingrese%200)
 6. [Decremento e incremento](./06-incremento%20y%20decremento)
-   - 6.1. [Control de ocupación de un estacionamiento](./06-incremento%20y%20decremento)
+   - 6.1. [Control de ocupación de un estacionamiento](./6.1-control%20de%20ocupación%20de%20un%20estacionamiento)
 7. [Validación de formato](./07-validación%20de%20formato)
 8. [Operaciones aritméticas](./08-operaciónes%20aritmeticas)
 9. [PUSH y POP](./09-push%20y%20pop)
