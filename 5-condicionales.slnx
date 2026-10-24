@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="5-condicionales/5-condicionales.vcxproj" Id="6097a364-fd8c-45b8-9e5b-2abc483286a1" />
-</Solution>

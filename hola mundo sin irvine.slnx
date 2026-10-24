@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="hola mundo sin irvine/hola mundo sin irvine.vcxproj" />
-</Solution>

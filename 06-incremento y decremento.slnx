@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="06-incremento y decremento/06-incremento y decremento.vcxproj" Id="d3f2ae42-e860-41b2-b43f-74ae0548d676" />
-</Solution>
